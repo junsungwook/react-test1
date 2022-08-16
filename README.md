@@ -1,3 +1,9 @@
+리액트 연습 테스트 케이스 작성
+
+컴포넌트 개념
+State 관리, 이벤트 다루기
+랜더링 리스트 및 조건부 contents
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
